@@ -29,10 +29,10 @@ dependencies:
   image: ^2.0.7
   animator: 0.1.4
   cupertino_icons: ^0.1.2
-  path_provider: ^0.5.0+1
+  path_provider: ^1.6.18
   firebase_messaging: ^4.0.0+1
   timeago: 2.0.17
-  cached_network_image:
+  cached_network_image: ^2.5.0
   flutter_svg:
 
 dev_dependencies:
